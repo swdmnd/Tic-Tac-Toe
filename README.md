@@ -9,6 +9,7 @@ Gambar O dan X diambil dari google. gambar foo dan hello diambil dari lazyfoo.ne
 font lazy memiliki hak cipta, bisa dilihat di sini http://lazyfoo.net/faq.php
 
 ======Font Copyright on FAQ======
+
 Can I use Lazy Font?
 A: Yes, under 3 conditions.
 
