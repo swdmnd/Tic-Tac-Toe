@@ -19,5 +19,4 @@ The conditions go as follows:
 
 I am claiming copyright on Lazy Font in the unlikely case somebody actually makes money off of it. I understand it's hard to find fonts when you're starting out, so you newbies can use my font for your games under the above conditions.
 
-Get the latest version of the font here.
 ============================
